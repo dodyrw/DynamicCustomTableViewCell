@@ -1,6 +1,6 @@
 DynamicCustomTableViewCell
 ==========================
 
-XCode 5 project show how to make dynamic height tableview cell
+This is a simple XCode 5 project that show how to make dynamic height tableview cell by using auto layout.
 
-![screenshot](https://raw.github.com/dodyrw/DynamicCustomTableViewCell/blob/master/ss.png)
+![screenshot](https://raw.githubusercontent.com/dodyrw/DynamicCustomTableViewCell/master/ss.png)
